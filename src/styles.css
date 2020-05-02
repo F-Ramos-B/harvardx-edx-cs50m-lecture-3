@@ -1,0 +1,12 @@
+.App {
+  font-family: "Jost", sans-serif;
+  text-align: center;
+}
+
+.button-delete {
+  border-radius: 50%;
+  color: white;
+  background-color: red;
+  border: 2px solid black;
+  margin-left: 5px;
+}
